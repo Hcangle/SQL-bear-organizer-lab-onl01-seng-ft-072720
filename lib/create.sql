@@ -5,5 +5,5 @@ age INTEGER,
 gender CHAR(1), 
 color TEXT, 
 temperament TEXT, 
-alive INTEGER
+alive BOOLEAN
 );
